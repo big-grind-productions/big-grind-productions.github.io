@@ -1,0 +1,7 @@
+# Site settings
+title: Big Grind Productions
+description: Filmmaker, Video Journalist, Editor, Composer, Lyricist, Screenwriter and Occasional Actor.
+keywords: Filmmaker, Video Journalist, Editor, Composer, Lyricist, Screenwriter, Occasional Actor
+author: Chris T Davies
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://big-grind-productions.github.io" # the base hostname & protocol for your site
